@@ -55,33 +55,41 @@ hr{
 
 .con-tow{
   display: flex;
-  gap: 20px;
+  gap: 150px;
 
 }
 
 .con-tow-one{
-  text-align: left;
+  text-align: center;
   padding: 60px 30px;
   background: #e9faffb9;
   border-radius: 5px;
+
 }
 
 .con-tow-tow{
-  text-align: left;
+  text-align: center;
   padding: 60px 30px;
   background: #ffe0f1c2;
   border-radius: 5px;
 }
 
 .con-tow-three{
-  text-align: left;
+  text-align: center;
   padding: 60px 30px;
   background: #ffffdab9;
   border-radius: 5px;
 }
 
+.con-tow-four{
+  text-align: center;
+  padding: 60px 30px;
+  background: #e9faffb9;
+  border-radius: 5px;
+}
+
 .con-tow-tital{
-  text-align: left;
+  text-align: center;
   font-weight: 800;
   font-size: 20px;
   color: #000;
@@ -89,7 +97,7 @@ hr{
 }
 
 .con-tow-description{
-  text-align: left;
+  text-align: center;
 }
 
 .con-three{
@@ -103,13 +111,13 @@ hr{
 }
 
 .con-three-title{
-  text-align: left;
+  text-align: center;
   font-weight: 800;
   font-size: 40px;
 }
 
 .con-three-description{
-  text-align: left;
+  text-align: center;
   font-size: 15px;
   margin: 20px 0px;
 }
